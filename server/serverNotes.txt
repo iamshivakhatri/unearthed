@@ -1,0 +1,6 @@
+#setup package json file
+npm init -y
+
+#installing express and nodemon
+npm install nodemon express
+
