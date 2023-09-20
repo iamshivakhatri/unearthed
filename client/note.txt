@@ -1,5 +1,0 @@
-npm init -y
-initialize package json
-
-#install nodemon(installing it globally)
-npm install -g nodemon

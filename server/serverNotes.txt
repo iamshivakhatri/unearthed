@@ -4,3 +4,15 @@ npm init -y
 #installing express and nodemon
 npm install nodemon express
 
+#main key in package json
+change index.js to server.js
+
+#In script in package json
+change test.. to { "start": "nodemon server.js" }
+
+
+#add type:"module" in package json
+It will interpret using new ES module syntax
+
+
+
